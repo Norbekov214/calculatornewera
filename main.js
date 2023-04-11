@@ -21,7 +21,7 @@ btn.forEach((li) => {
                 try {
                     mainItem.textContent = eval(mainItem.textContent)
                 } catch (err) {
-                    mainItem.textContent = "You must learn to write correctly"
+                    mainItem.textContent = "Error"
                 }
                 break
             default:
