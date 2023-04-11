@@ -34,11 +34,11 @@ body {
     color: white;
     text-align: right;
     margin: 0 auto;
-    padding-top: 100px;
+    padding-top: 50px;
     padding-right: 10px;
     font-size: 32px;
     font-weight: 800;
-    height: 150px;
+    height: 100px;
 }
 
 .main-item {
