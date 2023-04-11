@@ -57,7 +57,7 @@ body {
     border-radius: 10px;
 }
 
-.main-item:hover {
+.main-item:active{
     background-color: rgb(115, 161, 146);
     color: wheat;
 }
